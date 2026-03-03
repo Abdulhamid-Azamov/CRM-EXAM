@@ -17,6 +17,8 @@ import Users from "./Dashboard/Users/Users"
 
 
 import Rooms from "./Dashboard/Rooms/Rooms"
+import RoomsMore from "./Dashboard/Rooms/RoomsMore"
+import RoomsCrud from "./Dashboard/Rooms/RoomsCrud"
 
 
 import Teachers from "./Dashboard/Teachers/Teachers"
@@ -31,4 +33,4 @@ import StudentsCrud from "./Dashboard/Students/StudentsCrud"
 import NotFound from "./NotFound"
 
 
-export { StudentsCrud, TeachersCrud, TeachersMore, StudentsMore, StacksMore, LoginHome, Login, DashboardHome, Stacks, Groups, Users, Rooms, Teachers, Students, NotFound, StacksCrud, GroupsCrud, GroupsMore }
+export { RoomsCrud, RoomsMore, StudentsCrud, TeachersCrud, TeachersMore, StudentsMore, StacksMore, LoginHome, Login, DashboardHome, Stacks, Groups, Users, Rooms, Teachers, Students, NotFound, StacksCrud, GroupsCrud, GroupsMore }

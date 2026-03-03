@@ -17,8 +17,8 @@ const PATH = {
 
 
     rooms: "/rooms",
-    roomsMore: "/rooms/:id",
-    roomsUpdate: "/rooms/:id/update",
+    roomsMore: "/rooms/:roomsId",
+    roomsUpdate: "/rooms/:roomsId/update",
     roomsCreate: "/rooms/create",
 
 
